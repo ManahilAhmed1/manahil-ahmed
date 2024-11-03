@@ -3,6 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-manalihamed208963@gmail.com-blue?style=flat-square&logo=gmail)](mailto:manahilahmed208963@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manahil%20Ahmed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manahil-ahmed/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/ManahilAhmed1)
+[![Resume](https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=googledrive)](https://docs.google.com/document/d/1ChwvIql_qTNRrrrwl9Wx5I4TQ3kUFxih86zU_eC3UsM/edit?usp=sharing)
 
 I'm a Sales Coordinator, currently working at Pure Power Engineering, an engineering firm specializing in solar energy. With experience in generating precise proposals and managing project workflows, I bring a customer-focused approach to building strong relationships with clients and team members. My goal is to transition into a data and business analytics role, where I can leverage my technical skills to drive insights and value for businesses.
 
@@ -28,12 +29,4 @@ Skills & Technologies 💻
 
 * Salesforce CRM | Oracle Database | Microsoft Dynamics CE
 
-Connect with Me 🔗
-
-[LinkedIn] https://www.linkedin.com/in/manahil-ahmed/
-
-Portfolio 
-
-[Resume] https://docs.google.com/document/d/1ChwvIql_qTNRrrrwl9Wx5I4TQ3kUFxih86zU_eC3UsM/edit?usp=sharing
-
-Looking forward to collaborating on exciting projects and exploring new opportunities in analytics!
+Looking forward to collaborating on exciting projects and exploring new opportunities in analytics! 😁
