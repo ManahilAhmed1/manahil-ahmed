@@ -1,4 +1,8 @@
-Hi, I'm Manahil Ahmed 👋
+# Hi, I'm Manahil Ahmed 👋
+
+[![Email](https://img.shields.io/badge/Email-manalihamed208963@gmail.com-blue?style=flat-square&logo=gmail)](mailto:manahilahmed208963@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manahil%20Ahmed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/manahil-ahmed/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/ManahilAhmed1)
 
 I'm a Sales Coordinator, currently working at Pure Power Engineering, an engineering firm specializing in solar energy. With experience in generating precise proposals and managing project workflows, I bring a customer-focused approach to building strong relationships with clients and team members. My goal is to transition into a data and business analytics role, where I can leverage my technical skills to drive insights and value for businesses.
 
